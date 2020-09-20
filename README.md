@@ -1,7 +1,7 @@
 # Karan-s-Voice-Assistant
 
-This is my Voice Assistant practice project coded in Python Language.
-It does following tasks:
+This is my Voice Assistant practice project coded in Python Language.\
+It does following tasks:\
 -Recognizes the voice
 -Greets According to the timezone
 -Takes Command
