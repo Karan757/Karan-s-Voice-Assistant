@@ -14,12 +14,12 @@ It does following tasks:\
 -Plays music from your local device\
 -Tells current Time\
 -Tells Current Date\
--Quits the program by saying quit command.\
+-Quits the program by saying quit command.
 
 
 
-Requirements:\
+Requirements:
 
 -pip install pyttsx3 ---> for voice\
 -pip install speechRecognition\
--pip install wikipedia ---> to get wikipedia content\
+-pip install wikipedia ---> to get wikipedia content
