@@ -1,0 +1,5 @@
+Requirements:
+
+-pip install pyttsx3 ---> for voice
+-pip install speechRecognition
+-pip install wikipedia ---> to get wikipedia content
